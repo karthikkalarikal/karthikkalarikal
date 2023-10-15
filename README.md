@@ -6,6 +6,8 @@
 
 🤝 I'm always open to collaboration on innovative projects that leverage Golang's strengths. Let's connect and explore opportunities to create remarkable software solutions together.
 
+📫 You can reach me at karthikkalarikal009@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karthik-kalarikal-b0b1ba100/).
+
 <!---
 karthikkalarikal/karthikkalarikal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
