@@ -1,17 +1,52 @@
-👋 Hi, I'm Karthik, a passionate Golang developer with a knack for building scalable and efficient applications. I thrive on creating clean, maintainable code and solving complex problems with Go's powerful capabilities.
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-💻 My journey with Golang started as a curiosity and evolved into a deep passion. I've honed my skills by developing web applications, microservices, and tools, harnessing the full potential of Go's concurrency model and performance optimization features.
+###
 
-🌐 As a developer, I enjoy building web services that not only deliver a seamless user experience but also maintain the highest standards of security. I'm committed to staying up-to-date with the latest trends and best practices in the Go ecosystem.
+<div align="center">
+  <a href="https://www.linkedin.com/in/karthik-kalarikal-b0b1ba100/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/KKalarikal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-🤝 I'm always open to collaboration on innovative projects that leverage Golang's strengths. Let's connect and explore opportunities to create remarkable software solutions together.
+###
 
-📫 You can reach me at karthikkalarikal009@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karthik-kalarikal-b0b1ba100/).
+<h1 align="center">hey there 👋</h1>
 
-<!---
-karthikkalarikal/karthikkalarikal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=karthikkalarikal)](https://github.com/karthikkalarikal)
+###
+
+<p align="left">I'm karthik from india<br><br>- 📚 I'm currently learning GO</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
