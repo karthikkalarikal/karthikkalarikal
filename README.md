@@ -32,9 +32,9 @@
 ###
 
 <br clear="both">
-
+<!--
 <img align="right" height="157" src="https://golang.org/doc/gopher/fiveyears.jpg"  />
-
+-->
 ###
 
 <div align="left">
